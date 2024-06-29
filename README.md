@@ -1,6 +1,3 @@
-# Uber_Backend
-This is repository for indexing all microservices use for making this backend.
-Below are the url of respective service
 # Uber Microservices Project
 
 This project encompasses multiple repositories that together form the backend system for managing various services in an Uber-like application.
